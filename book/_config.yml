@@ -2,12 +2,12 @@ Title: CriticNous Official Website
 author: CriticNous Team, theo dõi chúng tớ tại <a href="https://www.youtube.com/@Criticnous">Youtube@Criticnous</a> 
 
 execute:
-  execute_notebooks: "auto"
+  execute_notebooks: "off"
 
 only_build_toc_files: true
 
 html:
-  favicon : "logo_circled.png"
+  favicon : "figure/logo_circled.png"
   baseurl :  "https://criticnous.github.io" #Replace this with your own URL
 
 sphinx:
