@@ -1,6 +1,6 @@
 (intro)=
 # Chào mừng đến với Critic Nous 
 
-_This is the first page the student will see when opening the url._
+Đây là trang trang web chia sẽ kiến thức toán học, lập trình!
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+
