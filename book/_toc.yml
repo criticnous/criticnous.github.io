@@ -1,21 +1,29 @@
 format: jb-book
 root: intro.md
 
-parts:
-  - caption: Contents
-    chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-    - file: exercises
-      sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/006.md
-      - file: exercises/summary
-    - file: references.md
-    - file: changelog.md
-    - file: credits.md
+# parts:
+#   - caption: Contents
+#     chapters:
+#     - file: some_content/overview.md
+#       sections:
+#       - file: some_content/text_and_code.ipynb
+#       - file: file_to_be_added_to_toc.md
+#     - file: exercises
+#       sections:
+#       - file: exercises/001.md
+#       - file: exercises/002.md
+#       - file: exercises/003.md
+#       - file: exercises/004.md
+#       - file: exercises/005.md
+#       - file: exercises/006.md
+#       - file: exercises/summary
+#     - file: references.md
+#     - file: changelog.md
+#     - file: credits.md
+#   - caption: My Contents
+#     chapters:
+#     - file: chapter1
+#       sections:
+#       - file: chapter1/chapter1_section1/001_Calculator.md
+      
+ 
